@@ -1,0 +1,58 @@
+.header {
+  background-color: #7e8a97;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  
+}
+body {
+  background-color: #cbaf87;
+  font-family: 'Roboto', sans-serif;
+} 
+
+#headernav {
+  list-style: none;
+}
+.content {
+  background-color: #e7dec8;
+  padding-top: 130px;
+}
+
+#image {
+  margin-right: 10px;
+}
+
+#breakfast-list {
+  color: teal;
+}
+
+#menu-header {
+  text-align: center;
+}
+
+.container {
+  background-color: #e7dec8;
+  display: inline-block;
+}
+
+#special-paragraph {
+  display: inline;
+  position: relative;
+  top: 0px;
+
+}
+
+
+a:link{
+	color: rgb(31, 183, 221);
+  text-decoration: none;    
+}
+a:visited{
+  color: silver;
+}
+
+
+
+
+
